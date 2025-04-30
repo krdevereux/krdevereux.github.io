@@ -1,5 +1,5 @@
 # krdevereux.github.io
-# Geospatial Scientist
+# Environmental Scientist and GIS Analyst
 
 ### Education
 - M.S., Marine Science | University of North Carolina Wilmington (_May 2024_)
