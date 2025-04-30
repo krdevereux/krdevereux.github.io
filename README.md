@@ -2,7 +2,7 @@
 # Geospatial Scientist
 
 ### Education
-Marine Science, M.S.
-Environmental Geoscience, B.A.
+- M.S., Marine Science | University of North Carolina Wilmington (_May 2024_)
+- B.A., Environmental Geoscience | The College of Wooster (_May 2021_)
 
 ### Projects
