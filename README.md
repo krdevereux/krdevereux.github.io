@@ -14,9 +14,14 @@ My background is primarily in environmental sciences, especially marine and estu
 
 3. Thermal Imagery Map Produced with Drone-Collected Data
 
-   In a graduate level class I took on drone applications, we traveled to the EV-Henwood Nature Preserve in North Carolina and flew a DUET-T Thermal camera aboard the eBeeX RTK drone. This drone and sensor collected both multispectral and thermal images, and I used these data to describe some site characteristics. I first calculated a normalized difference vegetation index (NDVI) for the sample area, and then created a thermal imagery map of the sample area.
+   In a graduate level class I took on drone applications, we traveled to the EV-Henwood Nature Preserve in North Carolina and flew a DUET-T Thermal camera aboard the eBeeX RTK drone. This drone and sensor collected both multispectral and thermal images, and I used these data to describe some site characteristics. I first calculated a normalized difference vegetation index (NDVI) for the sample area:
+   
    ![NDVI of EV-Henwood Nature Preserve](/assets/ndvi_ev-henwood.jpg)
 
+   I then used the thermal imagery collected by the drone to produce a map of the temperature range across the sample area:
+
+   ![Thermal Range of EV-Henwood Nature Preserve (F)](/assets/thermal_ev-henwood.jpg)
+   
 5. Master's Thesis StoryMap
 
 In my master's thesis project, I used dendrochronology (the study of tree rings) to evaluate the impact of saltwater intrusion on bald cypress growth. To expand upon this research, I compared my sample locations to various remote sensing data and presented these findings in a [StoryMap](https://arcg.is/CLifK).
