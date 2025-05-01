@@ -20,7 +20,7 @@ My background is primarily in environmental sciences, especially marine and estu
 
    As a senior undergraduate student of environmental geosciences, I completed a year-long GIS thesis project in which I calculated different components of the water budget (precipitation, runoff, and evapotranspiration) in order to estimate groundwater recharge rates across the continental US (CONUS). Below is an example of one of these water budget components - precipitation. To calculation precipitation rates across the CONUS, I used data from the PRISM Climate Group at Oregon State University, which provides precipitation estimates at an 800m resolution for the 1981-2020 30-year normal. The precipitation component also included irrigation because, in certain parts of the CONUS, especially the drier West, irrigation contributes significantly to the water available for evapotranspiration, runoff, and recharge. Irrigation data by county came from the 2010 USGS Water Use data set (Maupin et al., 2014).
 
-   ![Effective Precipitation](/assets/effective precip.png)
+   ![Effective Precipitation](/assets/effective_precip.jpg)
    
 ### 4. Thermal Imagery Map Produced with Drone-Collected Data
 
