@@ -1,5 +1,6 @@
 # krdevereux.github.io
 # Environmental Scientist and GIS Analyst
+My background is primarily in environmental sciences, especially marine and estuarine sciences, with a focus on GIS. I aim to combine my scientific background with my skills in geospatial analysis. This webpage provides further information on my background and examples of some of the outcomes of the work I have done in GIS.
 
 ### Education
 - M.S., Marine Science | University of North Carolina Wilmington (_May 2024_)
