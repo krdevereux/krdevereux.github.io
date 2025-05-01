@@ -24,4 +24,4 @@ My background is primarily in environmental sciences, especially marine and estu
    
 5. Master's Thesis StoryMap
 
-In my master's thesis project, I used dendrochronology (the study of tree rings) to evaluate the impact of saltwater intrusion on bald cypress growth. To expand upon this research, I compared my sample locations to various remote sensing data and presented these findings in a [StoryMap](https://arcg.is/CLifK).
+   In my master's thesis project, I used dendrochronology (the study of tree rings) to evaluate the impact of saltwater intrusion on bald cypress growth. To expand upon this research, I compared my sample locations to various remote sensing data and presented these findings in a [StoryMap](https://arcg.is/CLifK).
