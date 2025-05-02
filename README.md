@@ -22,7 +22,13 @@ My background is primarily in environmental sciences, especially marine and estu
 
    ![Effective Precipitation](/assets/effective_precip.jpg)
    
-### 4. NDVI and Thermal Imagery Map Produced with Drone-Collected Data
+### 4. Analysis of Chesapeake Bay Water Quality in Relation to Oyster Sanctuaries
+
+   For an undergraduate GIS course final project, I was interested in exploring the spatial patterns of water quality in the Chesapeake Bay. I am highly interested in the restoration of the Bay and believe strongly in the importance of oysters in contributing to improved water quality. I therefore wanted to analyze water quality patterns as they relate to oyster sanctuary locations. My final poster demonstrated that the location of oyster sanctuaries did not have an impact on water quality trends, but that water quality across the Bay did improve over the study period. I combined the use of ArcGIS and R for these analyses.
+
+   ![Oyster Poster](/assets/gis_oyster_poster.jpg)
+
+### 5. NDVI and Thermal Imagery Map Produced with Drone-Collected Data
 
    In a graduate level class I took on drone applications, we traveled to the EV-Henwood Nature Preserve in North Carolina and flew a DUET-T Thermal camera aboard the eBeeX RTK drone. This drone and sensor collected both multispectral and thermal images, and I used these data to describe some site characteristics. I first calculated a normalized difference vegetation index (NDVI) for the sample area:
    
