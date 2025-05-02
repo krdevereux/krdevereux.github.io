@@ -22,7 +22,7 @@ My background is primarily in environmental sciences, especially marine and estu
 
    ![Effective Precipitation](/assets/effective_precip.jpg)
    
-### 4. Thermal Imagery Map Produced with Drone-Collected Data
+### 4. NDVI and Thermal Imagery Map Produced with Drone-Collected Data
 
    In a graduate level class I took on drone applications, we traveled to the EV-Henwood Nature Preserve in North Carolina and flew a DUET-T Thermal camera aboard the eBeeX RTK drone. This drone and sensor collected both multispectral and thermal images, and I used these data to describe some site characteristics. I first calculated a normalized difference vegetation index (NDVI) for the sample area:
    
