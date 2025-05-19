@@ -23,6 +23,11 @@ ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, R, Python and ArcPy, LiDAR and poin
 
    ![OneidaLakeMap](/assets/OneidaLakeMap.jpg)
 
+   I decided to use a dark theme for this map in order to highlight the points of interest and the target waterbody. I additionally created an vingette effect around the Oneida Lake watershed so that other WWTPs in the area were visible but wouldn't distract from the WWTPs within the 15-mile distance zone around Oneida Lake.
+
+R code:
+
+
 ### Storm Surge Inundation in Pamlico County, NC
 
    For this project, I was interested in the impacts of hurricanes on coastal North Carolina. I used the Sea Lake and Overland Surges from Hurricanes (SLOSH) model display program from NOAA to obtain flooding scenarios for different storm categories. I overlaid the results with Pamlico County data for building footprints to illustrate which structures would likely be inundated during different storm surge scenarios.
