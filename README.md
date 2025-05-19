@@ -23,7 +23,7 @@ ArcGIS Pro, ArcGIS Online, ArcGIS StoryMaps, R, Python and ArcPy, LiDAR and poin
 
    ![OneidaLakeMap](/assets/OneidaLakeMap.jpg)
 
-   I decided to use a dark theme for this map in order to highlight the points of interest and the target waterbody. I additionally created an vingette effect around the Oneida Lake watershed so that other WWTPs in the area were visible but wouldn't distract from the WWTPs within the 15-mile distance zone around Oneida Lake.
+   I decided to use a dark theme for this map in order to highlight the points of interest and the target waterbody. The upstream reaches identified by the nhdplusTools process in R are included as gray lines, emphasizing the size of the watershed. I additionally created an vingette effect around the Oneida Lake watershed so that other WWTPs in the area were visible but wouldn't distract from the WWTPs within the 15-mile distance zone around Oneida Lake. The inclusion of these stream reaches also demonstrates that although there are several other WWTPs within 15 miles of Oneida Lake, they do not discharge into the Oneida Lake watershed and therefore do not need to be included for this exercise. 
 
 R code:
 
